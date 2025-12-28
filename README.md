@@ -10,3 +10,6 @@ All the observational data for the analysis were obtained using the Growth India
 
 ## Tools
 Python, NumPy, Pandas, Matplotlib, Astropy
+
+## Data Availability
+The original observational data used in this project are not publicly available due to collaboration and telescope usage policies. This repository focuses on the analysis pipeline and methodology.
